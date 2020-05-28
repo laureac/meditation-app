@@ -1,4 +1,5 @@
 {
+  "homepage": "https://laureac.github.io/meditation-app/",
   "name": "meditation",
   "version": "0.1.0",
   "private": true,
@@ -14,6 +15,8 @@
     "react-sound": "^1.2.0"
   },
   "scripts": {
+    "predeploy": "yarn build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
