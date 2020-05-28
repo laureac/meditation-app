@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;400&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: #f8c28c;
+  font-family: 'Poppins', sans-serif;
+}
+.App{
+  min-height: 100vh;
+}
+.App-header h2{
+  display: flex;
+  justify-content: center;
+  padding-top: 5vh;
+  align-items: center;
+  font-weight: 200;
+  color: #902211;
+}
+
+.App-header h1{
+  display: flex;
+  justify-content: center;
+  margin-bottom: 10vh;
+  align-items: center;
+  color: #230e0b;
+}
+
+
+.main {
+  display: flex;
+  flex-direction: column;
+  .woman-wrapper{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 1rem;
+  }
+  #woman{
+    height: 300px;
+    width: 300px;
+    position: relative;
+    animation: mymove 5s ease infinite;
+  }
+  .ellipse{
+    background-color: #f8b186;
+    height: 50px;
+    width: 200px;
+    border-radius: 50%;
+    animation: shadow 5s ease-out infinite;
+  }
+}
+
+.bottom{
+  display: flex;
+  margin-left: 22vw;
+}
+.audio{
+  display: flex;
+  justify-content: center;
+}
+@keyframes mymove {
+    from {top: 0px;}
+    50% {top: -50px;}
+    to {top: 0px;}
+}
+@keyframes shadow{
+  from{width: 200px;}
+  50% {width: 150px;}
+  to {width: 200px;}
+}
+
