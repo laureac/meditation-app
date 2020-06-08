@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/meditation-app/static/css/main.23a23c85.chunk.css",
+    "main.js": "/meditation-app/static/js/main.79b858bc.chunk.js",
+    "main.js.map": "/meditation-app/static/js/main.79b858bc.chunk.js.map",
+    "runtime-main.js": "/meditation-app/static/js/runtime-main.1f268eab.js",
+    "runtime-main.js.map": "/meditation-app/static/js/runtime-main.1f268eab.js.map",
+    "static/js/2.3672a554.chunk.js": "/meditation-app/static/js/2.3672a554.chunk.js",
+    "static/js/2.3672a554.chunk.js.map": "/meditation-app/static/js/2.3672a554.chunk.js.map",
+    "index.html": "/meditation-app/index.html",
+    "precache-manifest.bb07ee0c9139345b03ea06ff00047d28.js": "/meditation-app/precache-manifest.bb07ee0c9139345b03ea06ff00047d28.js",
+    "service-worker.js": "/meditation-app/service-worker.js",
+    "static/css/main.23a23c85.chunk.css.map": "/meditation-app/static/css/main.23a23c85.chunk.css.map",
+    "static/js/2.3672a554.chunk.js.LICENSE.txt": "/meditation-app/static/js/2.3672a554.chunk.js.LICENSE.txt",
+    "static/media/image.png": "/meditation-app/static/media/image.f4b45724.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1f268eab.js",
+    "static/js/2.3672a554.chunk.js",
+    "static/css/main.23a23c85.chunk.css",
+    "static/js/main.79b858bc.chunk.js"
+  ]
+}
