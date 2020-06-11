@@ -2,9 +2,6 @@ import React from 'react';
 import './player.scss';
 import { Howl} from 'howler';
 
-
-
-
 class PlayerContenaire extends React.Component { 
   constructor(props){
     super(props)
@@ -13,7 +10,11 @@ class PlayerContenaire extends React.Component {
       currentTime: ''
     }
     this.audio= new Howl({
-      src: ["/3minutes.mp3"]
+      src: ['/6minutes.mp3'],
+      format: ['mp3'],
+      autoplay: false,
+      loop: false,
+      volume: 0.5,
     })
     this.handlePlay = this.handlePlay.bind(this)
   }
@@ -37,11 +38,11 @@ class PlayerContenaire extends React.Component {
 
 handlePlay () {
   if(this.state.playing===false){
-    return this.audio.play(),
+    this.audio.play()
   this.setState({
     playing: true
   })}else{
-    return this.audio.pause(),
+    this.audio.pause()
     this.setState({
       playing: false
     })}
@@ -59,10 +60,10 @@ stop = () =>{
       <div className="TrackList">
         <div className='toggle'>
         {this.state.playing === false && 
-        (<button className='play' onClick={this.handlePlay}><span><i class="fas fa-play" /></span></button>  )}
+        (<button className='play' onClick={this.handlePlay}><span><i className="fas fa-play" /></span></button>  )}
         {this.state.playing === true && 
-        (<button className='play' onClick={this.handlePlay}><span><i class="fas fa-pause" /></span></button>)}
-        <button className='stop' onClick={this.stop}><span><i class="fas fa-stop"></i></span></button>
+        (<button className='play' onClick={this.handlePlay}><span><i className="fas fa-pause" /></span></button>)}
+        <button className='stop' onClick={this.stop}><span><i className="fas fa-stop"></i></span></button>
         </div>
         <div className='time'>{this.time_convert(this.state.currentTime)}</div>
         </div>

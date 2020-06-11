@@ -1,5 +1,5 @@
 {
-  "homepage": "https://laureac.github.io/meditation/",
+  "homepage": "https://laureac.github.io/meditation-app/",
   "name": "meditation",
   "version": "0.1.0",
   "private": true,
@@ -17,7 +17,7 @@
   "scripts": {
     "predeploy": "yarn build",
     "deploy": "gh-pages -d build",
-    "start": "react-scripts start",
+    "start": "react-scripts start --no-cache",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
