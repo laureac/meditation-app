@@ -10,7 +10,7 @@ class PlayerContenaire extends React.Component {
       currentTime: ''
     }
     this.audio= new Howl({
-      src: ['/6minutes.mp3'],
+      src: ['https://www.westernsydney.edu.au/__data/assets/file/0020/160319/Brief_Relaxation_Session_with_background_music.mp3'],
       format: ['mp3'],
       autoplay: false,
       loop: false,
