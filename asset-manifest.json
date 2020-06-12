@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/meditation-app/static/css/main.657abfb1.chunk.css",
-    "main.js": "/meditation-app/static/js/main.3570bb2d.chunk.js",
-    "main.js.map": "/meditation-app/static/js/main.3570bb2d.chunk.js.map",
+    "main.js": "/meditation-app/static/js/main.57a2105c.chunk.js",
+    "main.js.map": "/meditation-app/static/js/main.57a2105c.chunk.js.map",
     "runtime-main.js": "/meditation-app/static/js/runtime-main.1f268eab.js",
     "runtime-main.js.map": "/meditation-app/static/js/runtime-main.1f268eab.js.map",
     "static/js/2.3672a554.chunk.js": "/meditation-app/static/js/2.3672a554.chunk.js",
     "static/js/2.3672a554.chunk.js.map": "/meditation-app/static/js/2.3672a554.chunk.js.map",
     "index.html": "/meditation-app/index.html",
-    "precache-manifest.e10a72d69168ebad8dfaf6759f9a860b.js": "/meditation-app/precache-manifest.e10a72d69168ebad8dfaf6759f9a860b.js",
+    "precache-manifest.920277fc82cc71129ef387d942594127.js": "/meditation-app/precache-manifest.920277fc82cc71129ef387d942594127.js",
     "service-worker.js": "/meditation-app/service-worker.js",
     "static/css/main.657abfb1.chunk.css.map": "/meditation-app/static/css/main.657abfb1.chunk.css.map",
     "static/js/2.3672a554.chunk.js.LICENSE.txt": "/meditation-app/static/js/2.3672a554.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.1f268eab.js",
     "static/js/2.3672a554.chunk.js",
     "static/css/main.657abfb1.chunk.css",
-    "static/js/main.3570bb2d.chunk.js"
+    "static/js/main.57a2105c.chunk.js"
   ]
 }
