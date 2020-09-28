@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/meditation-app/static/css/main.cd6c5fc5.chunk.css",
+    "main.css": "/meditation-app/static/css/main.16c7399e.chunk.css",
     "main.js": "/meditation-app/static/js/main.19c10fc7.chunk.js",
     "main.js.map": "/meditation-app/static/js/main.19c10fc7.chunk.js.map",
     "runtime-main.js": "/meditation-app/static/js/runtime-main.1f268eab.js",
@@ -9,10 +9,10 @@
     "static/js/2.7684cdf8.chunk.js": "/meditation-app/static/js/2.7684cdf8.chunk.js",
     "static/js/2.7684cdf8.chunk.js.map": "/meditation-app/static/js/2.7684cdf8.chunk.js.map",
     "index.html": "/meditation-app/index.html",
-    "precache-manifest.28222113b8eede8ecd598e12b055e2cc.js": "/meditation-app/precache-manifest.28222113b8eede8ecd598e12b055e2cc.js",
+    "precache-manifest.5606493b4f533be382f718417ccffa80.js": "/meditation-app/precache-manifest.5606493b4f533be382f718417ccffa80.js",
     "service-worker.js": "/meditation-app/service-worker.js",
     "static/css/2.e0dc44c2.chunk.css.map": "/meditation-app/static/css/2.e0dc44c2.chunk.css.map",
-    "static/css/main.cd6c5fc5.chunk.css.map": "/meditation-app/static/css/main.cd6c5fc5.chunk.css.map",
+    "static/css/main.16c7399e.chunk.css.map": "/meditation-app/static/css/main.16c7399e.chunk.css.map",
     "static/js/2.7684cdf8.chunk.js.LICENSE.txt": "/meditation-app/static/js/2.7684cdf8.chunk.js.LICENSE.txt",
     "static/media/aust1.jpg": "/meditation-app/static/media/aust1.9ff183b8.jpg",
     "static/media/App.scss": "/meditation-app/static/media/aust3.b26a3871.jpg",
@@ -29,7 +29,7 @@
     "static/js/runtime-main.1f268eab.js",
     "static/css/2.e0dc44c2.chunk.css",
     "static/js/2.7684cdf8.chunk.js",
-    "static/css/main.cd6c5fc5.chunk.css",
+    "static/css/main.16c7399e.chunk.css",
     "static/js/main.19c10fc7.chunk.js"
   ]
 }
