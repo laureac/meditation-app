@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "03baad58bbde680ae4eab1bbbf0dbbeb",
+    "revision": "72c122252a8301c6e03ba8b152fdef92",
     "url": "/meditation-app/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/meditation-app/static/css/2.e0dc44c2.chunk.css"
   },
   {
-    "revision": "df7a439b666858fbf263",
-    "url": "/meditation-app/static/css/main.07d5c46e.chunk.css"
+    "revision": "647a89a61f6b5697f0fb",
+    "url": "/meditation-app/static/css/main.11f3e2e3.chunk.css"
   },
   {
     "revision": "09c705c36ac43ffe7df8",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/meditation-app/static/js/2.7684cdf8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "df7a439b666858fbf263",
+    "revision": "647a89a61f6b5697f0fb",
     "url": "/meditation-app/static/js/main.19c10fc7.chunk.js"
   },
   {
