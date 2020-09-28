@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/meditation-app/precache-manifest.5606493b4f533be382f718417ccffa80.js"
+  "/meditation-app/precache-manifest.a3dcceb7cc0c98cc46aefc1ed8540ed0.js"
 );
 
 self.addEventListener('message', (event) => {
